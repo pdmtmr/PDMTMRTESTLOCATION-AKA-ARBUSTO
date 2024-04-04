@@ -4,16 +4,16 @@
 
 <h2 align="center"> Familia do Claudio Ventura </h2>
 
-![Claudio Ventura para baixo](/Familia_do_Claudio_Ventura.png)
+<t align="center"> ![Claudio Ventura para baixo](/Familia_do_Claudio_Ventura.png)</t>
 
 <h2 align="center"> Familia da Carolina Batista </h2>
 
-![Carolina Batista para baixo](/Familia_da_Carolina_Batista.png)
+<t align="center"> ![Carolina Batista para baixo](/Familia_da_Carolina_Batista.png)</t>
 
 <h2 align="center"> Familia do João Pinto </h2>
 
-![João Pinto para baixo](/Familia_do_João_Pinto.png)
+<t align="center"> ![João Pinto para baixo](/Familia_do_João_Pinto.png)</t>
 
 <h2 align="center"> Familia do Daniel Teixeira </h2>
 
-![Daniel Teixeira para baixo](/Familia_do_Daniel_Teixeira.png)
+<t align="center"> ![Daniel Teixeira para baixo](/Familia_do_Daniel_Teixeira.png) </t>
