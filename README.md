@@ -6,4 +6,4 @@ Este projeto teve inicio no ano de 2024e serve como um arquivo para cobrar jolas
 ![Claudio Ventura para baixo](/assets/images/Familia C)
 
 ## Familia do Claudio Ventura
-![Claudio Ventura para baixo](/"Familia_do_Claudio_Ventura.png)
+![Claudio Ventura para baixo](/Familia_do_Claudio_Ventura.png)
