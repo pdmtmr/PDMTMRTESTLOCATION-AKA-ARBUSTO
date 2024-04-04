@@ -10,3 +10,6 @@ Este projeto teve inicio no ano de 2024e serve como um arquivo para cobrar jolas
 
 ## Familia do João Pinto
 ![João Pinto para baixo](/Familia_do_João_Pinto.png)
+
+## Familia do Daniel Teixeira
+![Daniel Teixeira para baixo](/Familia_do_Daniel_Teixeira.png)
