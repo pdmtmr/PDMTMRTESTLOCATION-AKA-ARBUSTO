@@ -28,7 +28,7 @@
 
 
 
-<h2 align="center"> Familia do Guilhereme Santos </h2>
+<h2 align="center"> Familia do Guilherme Santos </h2>
 
 <t align="center"> ![Guilherme Santos para baixo](/Familia_do_Guilherme_Santos.png) </t>
 
