@@ -34,13 +34,14 @@
 
 
 
-<h2 align="center"> Familia da Sofia Rodrigues e "????" </h2>
 
-<t align="center"> ![Sofia Rodrigues e "????" para baixo](/Familia_da_Sofia_Rodrigues.png) </t>
+<h2 align="center"> Familia da Sofia Rodrigues </h2>
+
+<t align="center"> ![Sofia Rodrigues para baixo](/Familia_da_Sofia_Rodrigues.png) </t>
 
 
 
 
 <h2 align="center"> Familia da André Ribeiro </h2>
 
-<t align="center"> ![André Ribeiro para baixo](/Familia_da_André_Ribeiro.png) </t>
+<t align="center"> ![André Ribeiro para baixo](/Familia_do_André_Ribeiro.png) </t>
