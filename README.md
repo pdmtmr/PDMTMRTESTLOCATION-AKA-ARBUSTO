@@ -31,3 +31,16 @@
 <h2 align="center"> Familia do Guilhereme Santos </h2>
 
 <t align="center"> ![Guilherme Santos para baixo](/Familia_do_Guilherme_Santos.png) </t>
+
+
+
+<h2 align="center"> Familia da Sofia Rodrigues e "????" </h2>
+
+<t align="center"> ![Sofia Rodrigues e "????" para baixo](/Familia_da_Sofia_Rodrigues.png) </t>
+
+
+
+
+<h2 align="center"> Familia da André Ribeiro </h2>
+
+<t align="center"> ![André Ribeiro para baixo](/Familia_da_André_Ribeiro.png) </t>
