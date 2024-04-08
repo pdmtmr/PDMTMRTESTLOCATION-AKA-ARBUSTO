@@ -6,7 +6,7 @@
 
 <h2 align="center"> Familia do Claudio Ventura </h2>
 
-<t align="center"> ![Claudio Ventura para baixo](/Familia_do_Claudio_Ventura.png)</t>
+<t align="center"> ![Claudio Ventura para baixo](SVGs/Familia_do_Claudio_Ventura.svg)</t>
 
 
 
