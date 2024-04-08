@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Página-1" id="MyzGb4AWoMDugNOR0tzc">
-        <mxGraphModel dx="4501" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
+        <mxGraphModel dx="4785" dy="2425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -296,7 +296,7 @@
                 <mxCell id="mkdnd21y6ApAW0Ob3dTZ-109" value="2018 / 2019" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="-3480" y="-1540" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-110" value="&amp;nbsp;Legenda Matrículas:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-110" value="&amp;nbsp;Legenda Matrículas:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-3480" y="-1640" width="160" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="mkdnd21y6ApAW0Ob3dTZ-111" value="2017 / 2018" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
@@ -350,13 +350,13 @@
                         <mxPoint x="-150" y="-1519.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-124" value="&lt;div&gt;&lt;div&gt;Filipe Costa&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-124" value="&lt;div&gt;&lt;div&gt;Filipe Costa&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-1520" y="-1479.5" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="mkdnd21y6ApAW0Ob3dTZ-125" value="&lt;div&gt;Artur Queiros&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Desculpas&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
                     <mxGeometry x="-1580" y="-1399.5" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-126" value="&lt;div&gt;Miguel Malha&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;????&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-126" value="&lt;div&gt;Miguel Malha&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;????&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-1460" y="-1399.5" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="mkdnd21y6ApAW0Ob3dTZ-127" value="&lt;div&gt;Tiago Pereira&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Morais&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
@@ -467,7 +467,7 @@
                         <mxPoint x="170" y="-1480" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-152" value="&lt;div&gt;João Esteves&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-152" value="&lt;div&gt;João Esteves&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-2180" y="-1560" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="mkdnd21y6ApAW0Ob3dTZ-153" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="mkdnd21y6ApAW0Ob3dTZ-152" target="mkdnd21y6ApAW0Ob3dTZ-148" edge="1">
@@ -476,7 +476,7 @@
                         <mxPoint x="-1530" y="-1350" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-155" value="&lt;div&gt;Rui Velez&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-155" value="&lt;div&gt;Rui Velez&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-2180" y="-1480" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="mkdnd21y6ApAW0Ob3dTZ-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="mkdnd21y6ApAW0Ob3dTZ-155" target="mkdnd21y6ApAW0Ob3dTZ-152" edge="1">
@@ -497,10 +497,10 @@
                 <mxCell id="mkdnd21y6ApAW0Ob3dTZ-160" value="&lt;div&gt;Carolina Santos&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-2860" y="-1480" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-161" value="&lt;div&gt;André Dias&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-161" value="&lt;div&gt;André Dias&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-2660" y="-1480" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-162" value="&lt;div&gt;Diogo Carvalho&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-162" value="&lt;div&gt;Diogo Carvalho&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
                     <mxGeometry x="-2460" y="-1480" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="mkdnd21y6ApAW0Ob3dTZ-163" value="&lt;div&gt;Daniel Soares&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
@@ -656,7 +656,7 @@
                         <mxPoint x="-2970" y="-1390" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-259" value="Não sabemos ano" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="mkdnd21y6ApAW0Ob3dTZ-259" value="Não sabemos ano" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-3480" y="-1339" width="160" height="20" as="geometry"/>
                 </mxCell>
             </root>
