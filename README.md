@@ -28,9 +28,9 @@
 
 
 
-<h2 align="center"> Familia do Guilherme Santos </h2>
+<h2 align="center"> Familia do Bruno Carvalho </h2>
 
-<t align="center"> ![Guilherme Santos para baixo](SVGs/Familia_do_Guilherme_Santos.svg) </t>
+<t align="center"> ![Bruno Carvalho para baixo](SVGs/Familia_do_Bruno_Carvalho.svg) </t>
 
 
 
