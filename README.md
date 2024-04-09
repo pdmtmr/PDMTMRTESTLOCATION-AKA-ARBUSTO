@@ -24,7 +24,7 @@
 
 <h2 align="center"> Familia do Daniel Teixeira </h2>
 
-<t align="center"> ![Daniel Teixeira para baixo](https://github.com/pdmtmr/FamiliasDePraxeDeFracasATIVAS/blob/main/SVGs/SvFamilia_do_Daniel_Teixeira.svg) </t>
+<t align="center"> ![Daniel Teixeira para baixo](https://github.com/pdmtmr/FamiliasDePraxeDeFracasATIVAS/blob/main/SVGs/Familia_do_Daniel_Teixeira.svg) </t>
 
 
 
