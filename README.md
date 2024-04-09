@@ -18,7 +18,7 @@
 
 <h2 align="center"> Familia do João Pinto </h2>
 
-<t align="center"> ![João Pinto para baixo](https://raw.githubusercontent.com/pdmtmr/FamiliasDePraxeDeFracasATIVAS/4728dc84e82c40370f37592761f439ae2a3749f2/SVGs/Familia_do_Jo%C3%A3o_Pinto.svg?token=BAIOZYNWVDCW4WCYJ6ECQPTGCT7RM)</t>
+<t align="center"> ![João Pinto para baixo](https://github.com/pdmtmr/FamiliasDePraxeDeFracasATIVAS/blob/main/SVGs/Familia_do_Jo%C3%A3o_Pinto.svg)</t>
 
 
 
