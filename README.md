@@ -6,7 +6,7 @@
 
 <h2 align="center"> Familia do Claudio Ventura </h2>
 
-<t align="center"> ![Claudio Ventura para baixo](https://github.com/pdmtmr/FamiliasDePraxeDeFracasATIVAS/tree/main/SVGs/Familia_do_Claudio_Ventura.svg)</t>
+<t align="center"> ![Claudio Ventura para baixo](https://raw.githubusercontent.com/pdmtmr/FamiliasDePraxeDeFracasATIVAS/086ac8f987adc7f37d81a223a17e6b9766fd7c6c/SVGs/Familia_do_Claudio_Ventura.svg?token=BAIOZYIWDRZQMKYIXJ4T7KDGCT7KQ)</t>
 
 
 
