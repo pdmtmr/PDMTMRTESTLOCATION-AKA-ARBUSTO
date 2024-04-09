@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Página-1" id="MyzGb4AWoMDugNOR0tzc">
-        <mxGraphModel dx="3424" dy="2320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
+        <mxGraphModel dx="3088" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -64,7 +64,7 @@
                 <mxCell id="SZR8bBrm5BMhKsoexoeL-4" value="&lt;div&gt;Tiago Correia&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Linguini&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="-1690" y="-1400" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="SZR8bBrm5BMhKsoexoeL-5" value="&lt;div&gt;Carlos Viegas&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Pogba&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="SZR8bBrm5BMhKsoexoeL-5" value="&lt;div&gt;Carlos Viegas&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Pogba&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-2090" y="-1400" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="SZR8bBrm5BMhKsoexoeL-6" value="&lt;div&gt;Ivo Pacheco&lt;/div&gt;&lt;div&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
