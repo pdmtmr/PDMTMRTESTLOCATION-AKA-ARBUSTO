@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Página-1" id="MyzGb4AWoMDugNOR0tzc">
-        <mxGraphModel dx="3416" dy="2359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
+        <mxGraphModel dx="3088" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -79,7 +79,7 @@
                 <mxCell id="SZR8bBrm5BMhKsoexoeL-9" value="&lt;div&gt;Mariana Muñoz&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;????&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
                     <mxGeometry x="-1950" y="-1320" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="SZR8bBrm5BMhKsoexoeL-10" value="&lt;div&gt;Pedro Monteiro&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;PaPi&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+                <mxCell id="SZR8bBrm5BMhKsoexoeL-10" value="&lt;div&gt;Pedro Monteiro&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;PaPi?&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
                     <mxGeometry x="-1830" y="-1320" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="SZR8bBrm5BMhKsoexoeL-11" value="&lt;div&gt;Bernardo Jaco&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Mirone&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -190,10 +190,10 @@
                         <mxPoint x="-1820" y="-1350" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="12" value="&lt;div&gt;João Martins&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Mega Toukas&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+                <mxCell id="12" value="&lt;div&gt;João Martins&amp;nbsp;&lt;/div&gt;&lt;div&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Mega Toukas&lt;/i&gt;&lt;/font&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
                     <mxGeometry x="-1230" y="-1240" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="SZR8bBrm5BMhKsoexoeL-8">
+                <mxCell id="13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="12" target="SZR8bBrm5BMhKsoexoeL-8" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="-1280" y="-1230" as="sourcePoint"/>
                         <mxPoint x="-1280" y="-1270" as="targetPoint"/>
