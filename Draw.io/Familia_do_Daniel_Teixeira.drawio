@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="uytzpZjenSV1ZXbr69cE" name="Página-1">
-        <mxGraphModel dx="3716" dy="3182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
+        <mxGraphModel dx="3328" dy="3062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -13,17 +13,8 @@
                 <mxCell id="20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Levi Galaio&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;????&lt;/font&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
                     <mxGeometry x="-2120" y="-2320" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inês Durate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Branca de Neve&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                <mxCell id="24" value="&lt;div&gt;Sofia Duarte&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;????&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
                     <mxGeometry x="-2120" y="-2240" width="120" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="25" value="&lt;div&gt;Rita Marques&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Bubbles&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="-2120" y="-2160" width="120" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="25" target="24" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="-2450" y="-2160" as="sourcePoint"/>
-                        <mxPoint x="-2450" y="-2200" as="targetPoint"/>
-                    </mxGeometry>
                 </mxCell>
                 <mxCell id="27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="24" target="20" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
