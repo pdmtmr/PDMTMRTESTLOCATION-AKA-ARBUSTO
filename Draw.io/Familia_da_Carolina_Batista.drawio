@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Página-1" id="MyzGb4AWoMDugNOR0tzc">
-        <mxGraphModel dx="3328" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
+        <mxGraphModel dx="3088" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -192,6 +192,15 @@
                 </mxCell>
                 <mxCell id="63" value="2024&amp;nbsp;/ 2025" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;strokeColor=#996185;gradientColor=none;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-2320" y="-1620" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;div&gt;&lt;/div&gt;&lt;div&gt;Afonso Santos&amp;nbsp;&lt;br&gt;(&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Afonso da Tina&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontColor=#000000;strokeColor=#A50040;" vertex="1" parent="1">
+                    <mxGeometry x="-1640" y="-1320.5" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="64" target="mkdnd21y6ApAW0Ob3dTZ-215">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-1950" y="-1461.5" as="sourcePoint"/>
+                        <mxPoint x="-1620" y="-1460.5" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
