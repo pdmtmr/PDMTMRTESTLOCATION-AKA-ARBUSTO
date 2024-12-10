@@ -193,13 +193,13 @@
                 <mxCell id="63" value="2024&amp;nbsp;/ 2025" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;strokeColor=#996185;gradientColor=none;fontColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
                     <mxGeometry x="-2320" y="-1620" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="&lt;div&gt;&lt;/div&gt;&lt;div&gt;Afonso Santos&amp;nbsp;&lt;br&gt;(&lt;i&gt;&lt;font&gt;Afonso da Tina&lt;/font&gt;&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontColor=#000000;strokeColor=#A50040;fontFamily=Times New Roman;" vertex="1" parent="1">
-                    <mxGeometry x="-1640" y="-1320.5" width="120" height="40" as="geometry"/>
+                <mxCell id="66" value="&lt;div&gt;&lt;/div&gt;&lt;div&gt;Bernardo Sim Sim&lt;br&gt;(&lt;i&gt;Não Não&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontColor=#000000;strokeColor=#A50040;fontFamily=Times New Roman;" vertex="1" parent="1">
+                    <mxGeometry x="-1360" y="-1320.5" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="65" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="64" target="mkdnd21y6ApAW0Ob3dTZ-215">
+                <mxCell id="67" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="66" target="mkdnd21y6ApAW0Ob3dTZ-217">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="-1950" y="-1461.5" as="sourcePoint"/>
-                        <mxPoint x="-1620" y="-1460.5" as="targetPoint"/>
+                        <mxPoint x="-1570" y="-1310.5" as="sourcePoint"/>
+                        <mxPoint x="-1570" y="-1350" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
