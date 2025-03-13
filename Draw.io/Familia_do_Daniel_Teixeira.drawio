@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="uytzpZjenSV1ZXbr69cE" name="Página-1">
-        <mxGraphModel dx="3416" dy="3182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0" adaptiveColors="none">
+        <mxGraphModel dx="3088" dy="3062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#999999" math="0" shadow="0" adaptiveColors="none">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -268,7 +268,7 @@
                 <mxCell id="90" value="&lt;div&gt;&lt;/div&gt;&lt;div&gt;Afonso Santos&lt;br&gt;(&lt;i&gt;Afonso da Tina&lt;/i&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontColor=#000000;strokeColor=#A50040;fontFamily=Times New Roman;" parent="1" vertex="1">
                     <mxGeometry x="-500" y="-2080" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="92" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" source="90" target="53" edge="1">
+                <mxCell id="92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;startArrow=none;startFill=0;endFill=1;" parent="1" source="90" target="53" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="-549.9999999999995" y="-2070" as="sourcePoint"/>
                         <mxPoint x="-490" y="-2109" as="targetPoint"/>
