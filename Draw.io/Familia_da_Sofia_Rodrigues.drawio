@@ -5,13 +5,13 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="18" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sofia Rodrigues&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font&gt;????&lt;/font&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-                    <mxGeometry x="-1720" y="-2440" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="-1620" y="-2440" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;João Alves&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;font&gt;&lt;i&gt;BVA&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-                    <mxGeometry x="-1800" y="-2361" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="-1780" y="-2360" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Afonso Bastos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;font&gt;&lt;i&gt;Perdido&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-                    <mxGeometry x="-1860" y="-2280" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="-1840" y="-2280" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeColor=#000000;" parent="1" source="20" target="19" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,10 +26,10 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="25" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Beatriz Soares&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font&gt;????&lt;/font&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontColor=#FFFFFF;fontFamily=Times New Roman;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="-1320" y="-2360" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="-1300" y="-2360" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Berto Barata&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font&gt;????&lt;/font&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-                    <mxGeometry x="-1320" y="-2279" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="-1300" y="-2279" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeColor=#000000;" parent="1" source="26" target="25" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,7 +38,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="31" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Henrique Abreu&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;font&gt;&lt;i&gt;Madeirense&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontColor=#FFFFFF;fontFamily=Times New Roman;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="-1640" y="-2359" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="-1620" y="-2360" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="32" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeColor=#000000;" parent="1" source="18" target="31" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,7 +47,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="33" value="&lt;div&gt;Diogo Salgado&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;font&gt;&lt;i&gt;????&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontColor=#FFFFFF;fontFamily=Times New Roman;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="-1480" y="-2359" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="-1460" y="-2360" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeColor=#000000;" parent="1" source="18" target="33" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="41" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Constança Costa&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;font&gt;&lt;i&gt;Aurora&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-                    <mxGeometry x="-1740" y="-2280" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="-1720" y="-2280" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeColor=#000000;" parent="1" source="41" target="19" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
